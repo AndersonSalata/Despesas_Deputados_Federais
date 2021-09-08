@@ -1,9 +1,10 @@
 # Despesas_Deputados_Federais
 Análise de gastos dos deputados federais em 2021
+![CÂMARA DOS DEPUTADOS](figures/camara-dos-deputados.png)
 ##  Conjunto de dados
 * [Dados](https://dadosabertos.camara.leg.br/swagger/api.html#staticfile)
 # [Análise Exploratória](github.com/omatheuspimenta/titanic_exploratory)
-![Titanic](figures/titanic.jpg)
+![Titanic](figures/camara-dos-deputados.png)
 ## Bioestatística - 2021
 [Matheus Pimenta](https://github.com/omatheuspimenta)
 
