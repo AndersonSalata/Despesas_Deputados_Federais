@@ -5,7 +5,7 @@ Análise de gastos dos deputados federais em 2021
 ##  Conjunto de dados
 * [Dados](https://dadosabertos.camara.leg.br/swagger/api.html#staticfile)
 ## Gráficos
-* [Gastos dos parlamentares por setor]
+* [Gastos dos parlamentares por setor](gastos_por_setor.png)
 
 
 
